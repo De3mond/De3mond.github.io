@@ -31,6 +31,7 @@
     - [逆向工具](?file=入侵与破解/Reverse/逆向工具 "逆向工具")
     - [逆向常见加密算法](?file=入侵与破解/Reverse/逆向常见加密算法 "逆向常见加密算法")
     - [基础APK逆向](?file=入侵与破解/Reverse/基础APK逆向 "基础APK逆向")
+    - [Pyc逆向](??file=入侵与破解/Reverse/Pyc逆向 "Pyc逆向")
     - [RC4 解密模板](?file=入侵与破解/Reverse/RC4 解密模板 "RC4 解密模板")
     - [Python字节码](?file=入侵与破解/Reverse/Python字节码 "Python字节码")
     - [xxtea 解密模板](?file=入侵与破解/Reverse/xxtea 解密模板 "xxtea 解密模板")
