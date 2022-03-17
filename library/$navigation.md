@@ -29,6 +29,7 @@
     - [SSRF 总结](?file=入侵与破解/Web/SSRF 总结 "SSRF 总结")
 - **Reverse**
     - [逆向工具](?file=入侵与破解/Reverse/逆向工具 "逆向工具")
+    - [逆向常见加密算法](?file=入侵与破解/Reverse/逆向常见加密算法 "逆向常见加密算法")
     - [RC4 解密模板](?file=入侵与破解/Reverse/RC4 解密模板 "RC4 解密模板")
     - [Python字节码](?file=入侵与破解/Reverse/Python字节码 "Python字节码")
     - [xxtea 解密模板](?file=入侵与破解/Reverse/xxtea 解密模板 "xxtea 解密模板")
