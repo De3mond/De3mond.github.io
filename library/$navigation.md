@@ -28,6 +28,7 @@
     - [PHP 7.0-7.4 UAF](?file=入侵与破解/Web/PHP 7.0-7.4 UAF "PHP 7.0-7.4 UAF")
     - [SSRF 总结](?file=入侵与破解/Web/SSRF 总结 "SSRF 总结")
 - **Reverse**
+    - [逆向工具](?file=入侵与破解/Reverse/逆向工具 "逆向工具")
     - [RC4 解密模板](?file=入侵与破解/Reverse/RC4 解密模板 "RC4 解密模板")
     - [Python字节码](?file=入侵与破解/Reverse/Python字节码 "Python字节码")
     - [xxtea 解密模板](?file=入侵与破解/Reverse/xxtea 解密模板 "xxtea 解密模板")
