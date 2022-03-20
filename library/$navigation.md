@@ -43,5 +43,6 @@
 - **Crypto**
     - [RSA](?file=入侵与破解/Crypto/RSA "RSA")
 - **Misc**
+    - [隐写分析](?file=入侵与破解/Misc/隐写分析 "隐写分析")
 - **Python**
     - [开发环境](?file=入侵与破解/Python/开发环境 "开发环境")
