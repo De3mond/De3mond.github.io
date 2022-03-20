@@ -22,6 +22,7 @@
 
 ##### 入侵与破解
 - **Web**
+    - [入门](?file=入侵与破解/Web/入门 "入门")
     - [文件包含](?file=入侵与破解/Web/文件包含 "文件包含")
     - [Blind XXE](?file=入侵与破解/Web/Blind XXE "Blind XXE")
     - [Fastjson 漏洞总结](?file=入侵与破解/Web/Fastjson 漏洞总结 "Fastjson 漏洞总结")
@@ -36,6 +37,7 @@
     - [Python字节码](?file=入侵与破解/Reverse/Python字节码 "Python字节码")
     - [xxtea 解密模板](?file=入侵与破解/Reverse/xxtea 解密模板 "xxtea 解密模板")
 - **Pwn**
+    - [入门](?file=入侵与破解/Pwn/入门 "入门")
     - [Linux x86架构系统调用表](?file=入侵与破解/Pwn/Linux x86架构系统调用表 "Linux x86架构系统调用表")
     - [docker pwn机配置](?file=入侵与破解/Pwn/docker pwn机配置 "docker pwn机配置")
 - **Crypto**
