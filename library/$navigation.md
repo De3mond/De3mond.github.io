@@ -42,6 +42,7 @@
     - [docker pwn机配置](?file=入侵与破解/Pwn/docker pwn机配置 "docker pwn机配置")
 - **Crypto**
     - [RSA](?file=入侵与破解/Crypto/RSA "RSA")
+    - [基础](?file=入侵与破解/Crypto/基础 "基础")
 - **Misc**
     - [隐写分析](?file=入侵与破解/Misc/隐写分析 "隐写分析")
     - [二维码 流量分析](?file=入侵与破解/Misc/二维码 流量分析 "二维码 流量分析")
